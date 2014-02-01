@@ -1,0 +1,6 @@
+MIDlet-Name: MyCommandBasedFRCRobot
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: Team5137CmdBasedRobot, , edu.wpi.first.wpilibj.templates.Team5137CmdBasedRobot
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
